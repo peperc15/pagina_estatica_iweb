@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssh on Pfoter&#39;s Blog</title>
+    <link>https://www.pepepfoter15.es/tags/ssh/</link>
+    <description>Recent content in ssh on Pfoter&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>Pepepfoter15@gmail.com (Pepe Rodríguez)</managingEditor>
+    <webMaster>Pepepfoter15@gmail.com (Pepe Rodríguez)</webMaster><atom:link href="https://www.pepepfoter15.es/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuración Windows Server Core 2019 SSH</title>
+      <link>https://www.pepepfoter15.es/post/ssh-iso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Pepepfoter15@gmail.com (Pepe Rodríguez)</author>
+      <guid>https://www.pepepfoter15.es/post/ssh-iso/</guid>
+      <description>&lt;h3 id=&#34;configura-windows-server-core-2019-para-que-pueda-ser-accedido-mediante-clave-públicaprivada-desde-equipos-gnulinux-y-windows-mediante-ssh&#34;&gt;Configura Windows Server Core 2019, para que pueda ser accedido mediante clave pública/privada, desde equipos GNU/Linux y Windows mediante SSH.&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
